@@ -1,6 +1,6 @@
 ---
 author: charmike
-image_url: /images/Solitaire.png
+image_url: /images/solitaire.png
 title: Solitaire game
 caption: Το απλό παιχνίδι της πασιέντζας που περιλαμβανόταν στις αρχικές εκδόσεις των Windows, αποτέλεσε έναν από τους πιο επιτυχημένους "Δούρειους Ίππους" για την εξοικείωση των παλαιότερης γενιάς εργαζομένων με τους νέους τρόπους διάδρασης με τους υπολογιστές.
 categories:
